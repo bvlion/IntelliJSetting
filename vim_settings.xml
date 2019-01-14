@@ -1,0 +1,329 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" timestamp="1546206950169">
+        <mark key="[" line="55" column="94" />
+        <mark key="]" line="55" column="94" />
+        <mark key="." line="55" column="94" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/sql/timer_data.sql" timestamp="1545669437911">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="3" column="68" />
+        <mark key="." line="3" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/enums/HolidayEnum.java" timestamp="1547273969950">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/SlackHttpPost.java" timestamp="1546207676137">
+        <mark key="[" line="54" column="52" />
+        <mark key="]" line="54" column="118" />
+        <mark key="^" line="54" column="55" />
+        <mark key="." line="54" column="94" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/FirebaseAdminController.java" timestamp="1546759340219">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="35" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/ContextListener.java" timestamp="1546751331078">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="54" column="7" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/TimerDataMapper.xml" timestamp="1546374891626">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/AccessUtil.java" timestamp="1547269287649">
+        <mark key="'" line="348" column="12" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="206" column="45" />
+        <mark key="^" line="204" column="65" />
+        <mark key="." line="204" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimerConfiguration.java" timestamp="1546659255397">
+        <mark key="'" line="155" column="16" />
+        <mark key="[" line="104" column="43" />
+        <mark key="]" line="104" column="55" />
+        <mark key="." line="102" column="44" />
+        <mark key="^" line="113" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/FlickrController.java" timestamp="1546658811103">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/RealtimeSettingMapper.java" timestamp="1544713921778">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/SSHConnection.java" timestamp="1546207699326">
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="84" />
+        <mark key="." line="42" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" timestamp="1546659909489">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="85" />
+        <mark key="^" line="179" column="4" />
+        <mark key="." line="174" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546659149515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/SlackBinaryPost.java" timestamp="1546209160841">
+        <mark key="[" line="176" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/build.gradle" timestamp="1546659094275">
+        <mark key="[" line="58" column="54" />
+        <mark key="]" line="58" column="54" />
+        <mark key="^" line="58" column="54" />
+        <mark key="." line="58" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/CheckHolidayConfiguration.java" timestamp="1545664565524">
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="41" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" timestamp="1547269308790">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="58" column="31" />
+        <mark key="." line="58" column="31" />
+        <mark key="^" line="58" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/enums/JorudanEnum.java" timestamp="1547273955237">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/entity/RealtimeSettingEntity.java" timestamp="1545063680954">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/config/application.yml" timestamp="1545753195151">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/BvlionApplication.java" timestamp="1546660586006">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/UserDataController.java" timestamp="1546659992156">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="80" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/HolidayMapper.xml" timestamp="1547425258840">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/TemperatureHumidityMapper.java" timestamp="1546375067734">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/RealtimeSettingMapper.xml" timestamp="1545631086858">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/TimerDataMapper.java" timestamp="1546375071016">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/UserMapper.java" timestamp="1546206981101">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" timestamp="1547274217707">
+        <mark key="[" line="130" column="48" />
+        <mark key="]" line="130" column="48" />
+        <mark key="." line="130" column="48" />
+        <mark key="^" line="131" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/HolidayMapper.java" timestamp="1547273855997">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/UserMapper.xml" timestamp="1545626343930">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/JorudanConfiguration.java" />
+      <jump line="186" column="12" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/AccessUtil.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimerConfiguration.java" />
+      <jump line="33" column="11" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/CheckHolidayConfiguration.java" />
+      <jump line="68" column="8" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/FirstAccessTasklet.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/UserDataController.java" />
+      <jump line="211" column="58" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/WunderlistController.java" />
+      <jump line="12" column="31" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="6" column="4" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="3" column="3" filename="$USER_HOME$/workspace/BvlionBatch/bat/permission_setting.sh" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/BvlionBatch/bat/permission_setting.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/BvlionBatch/bat/permission_setting.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="13" column="34" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="15" column="315" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="16" column="249" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="17" column="180" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="18" column="94" filename="$USER_HOME$/workspace/BvlionBatch/bitbucket-pipelines.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/PingConfiguration.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/PingConfiguration.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/UrlAccessConfiguration.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/resources/templates/index.html" />
+      <jump line="112" column="8" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/TemperatureHumidityController.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" />
+      <jump line="10" column="23" filename="$USER_HOME$/workspace/infrared_api/src/main/kotlin/net/ambitious/raspberry/infrared/api/util/CmdExec.kt" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/infrared_api/build.gradle" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/infrared_api/src/main/resources/log4j.properties" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/infrared_api/src/main/resources/log4j.properties" />
+      <jump line="12" column="34" filename="$USER_HOME$/workspace/infrared_api/log4j.properties" />
+      <jump line="34" column="8" filename="$USER_HOME$/workspace/infrared_api/src/main/java/net/ambitious/raspberry/infrared_api/util/CmdExec.java" />
+      <jump line="10" column="7" filename="$USER_HOME$/workspace/infrared_api/src/main/java/net/ambitious/raspberry/infrared_api/api/Infrared.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/workspace/infrared_api/src/main/java/net/ambitious/raspberry/zero/util/HttpAccess.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/infrared_api/src/main/java/net/ambitious/raspberry/zero/util/HttpAccess.java" />
+      <jump line="17" column="2" filename="$USER_HOME$/workspace/BvlionBatch/bat/functions.txt" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/AccessUtil.java" />
+      <jump line="61" column="19" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/BvlionBatch/sql/realtime_setting.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/BvlionBatch/sql/holiday.sql" />
+      <jump line="26" column="18" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" />
+      <jump line="58" column="41" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimerConfiguration.java" />
+      <jump line="48" column="49" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/TemperatureHumidityController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/resources/config/application-production.yml" />
+      <jump line="0" column="17" filename="$USER_HOME$/workspace/BvlionBatch/sql/users.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/BvlionBatch/sql/holiday.sql" />
+      <jump line="0" column="28" filename="$USER_HOME$/workspace/BvlionBatch/sql/realtime_setting.sql" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/UserDataController.java" />
+      <jump line="52" column="17" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/UserDataController.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/BvlionBatch/sql/init.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/BvlionBatch/sql/init.sql" />
+      <jump line="347" column="12" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/AccessUtil.java" />
+      <jump line="149" column="16" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimerConfiguration.java" />
+      <jump line="153" column="16" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimerConfiguration.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>は</text>
+      </register>
+      <register name="-" type="4">
+        <text>は</text>
+      </register>
+      <register name="/" type="4">
+        <text>json</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQlpZiAoc3RhdHVzID09IEhvbGlkYXlFbnVtLuaYjuaXpeOBr+S8keOBvy5nZXRTdGF0dXMoKSkgewoJCQkJCQltZXNzYWdlID0gIuaYjuaXpeOBr+OBiuS8keOBv+OBp+OBmeOAguOCouODqeODvOODoOOBruioreWumuOCkuino+mZpOOBl+OBpuS4i+OBleOBhOOAgiI7CgkJCQkJfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJQWNjZXNzVXRpbC5wb3N0R29vZ2xlSG9tZSgKCQkJCQkJCQltZXNzYWdlLAoJCQkJCQkJCWxvZywKCQkJCQkJCQlUaW1lTm90aWZpY2F0aW9uQ29uZmlndXJhdGlvbi5jbGFzcywKCQkJCQkJCQlhcHBQYXJhbXMKCQkJCQkJKTsKCQkJCQkJbmV3IFNsYWNrSHR0cFBvc3QoCgkJCQkJCQkJInJlbWluZGVyIiwKCQkJCQkJCQki55uu6Kaa44G+44GX44Kt44KtIiwKCQkJCQkJCQltZXNzYWdlLAoJCQkJCQkJCSJodHRwczovL3d3dy5zYW5yaW8uY28uanAvc3BlY2lhbC9raWtpbGFsYS90d2l0dGVyL2FkdmljZS9pbWFnZXMvMDEwNC9raWtpX21vb24wMTA0LnBuZyIKCQkJCQkJKS5zZW5kKGFwcFBhcmFtcyk7Cg==</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">IC0tIOaYjuaXpeOBjOS8keOBvwogLS0g5piO5pel44GM5LuV5LqL</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIGhhc2hUYWc7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QKICAgICAgICAoU0VMRUNUIGhvbGlkYXkgRlJPTSBob2xpZGF5cyBXSEVSRSBjaGVja19kYXRlID0gZGF0ZShOT1coKSkpCiAgICAgICAgPQogICAgICAgIChTRUxFQ1QgaG9saWRheSBGUk9NIGhvbGlkYXlzIFdIRVJFIGNoZWNrX2RhdGUgPSBEQVRFX1NVQihDVVJSRU5UX0RBVEUoKSwgSU5URVJWQUwgMSBEQVkpKQogICAgICAgIEZST00gRFVBTAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QKICAgICAgICAgIENBU0UgV0hFTgogICAgICAgICAgICAoCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICBDT1VOVCgqKQogICAgICAgICAgICAgIEZST00KICAgICAgICAgICAgICAgIGhvbGlkYXlzCiAgICAgICAgICAgICAgV0hFUkUKICAgICAgICAgICAgICAgIGNoZWNrX2RhdGUgPSBkYXRlKE5PVygpKQogICAgICAgICAgICApID0gMAogICAgICAgICAgVEhFTiAwCiAgICAgICAgICBFTFNFCiAgICAgICAgICAgICgKICAgICAgICAgICAgKQogICAgICAgICAgRU5ECiAgICAgICAgRlJPTQogICAgICAgICAgRFVBTAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgICAgIGhvbGlkYXkKICAgICAgICAgICAgICBGUk9NCiAgICAgICAgICAgICAgICBob2xpZGF5cwogICAgICAgICAgICAgIFdIRVJFCiAgICAgICAgICAgICAgICBjaGVja19kYXRlID0gZGF0ZShOT1coKSkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>json</last-search>
+      <last-offset />
+      <last-pattern>json</last-pattern>
+      <last-replace>asana</last-replace>
+      <last-substitute>Wunderlist</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>hilVMy6d66wAAAAAAAACef22HwCs2yrcoUKRwO5EnfnFWzv-cQeeOnWV4YWZUGdM</entry>
+        <entry>BvlionBatch</entry>
+        <entry>Wunderlist</entry>
+        <entry>json</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/hilVMy6d66wAAAAAAAACef22HwCs2yrcoUKRwO5EnfnFWzv-cQeeOnWV4YWZUGdM/$DROPBOX_AUTH/g</entry>
+        <entry>%s/%d/%s/d</entry>
+        <entry>wq</entry>
+        <entry>%s/Wunderlist/asana/g</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

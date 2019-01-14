@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/Library/Caches/IdeaIC2018.2/extResources/5a3ee903_log4j.dtd" />
+    <ignored-resource url="http://jakarta.apache.org/log4j/" />
+    <ignored-resource url="log4j.dtd" />
+  </component>
+</application>
