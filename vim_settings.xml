@@ -42,7 +42,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/.circleci/config.yml" timestamp="1547571539875" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/.circleci/config.yml" timestamp="1547573060984">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/AccessUtil.java" timestamp="1547571209052">
         <mark key="'" line="348" column="12" />
         <mark key="[" line="37" column="52" />
@@ -84,12 +88,6 @@
         <mark key="]" line="47" column="85" />
         <mark key="^" line="179" column="4" />
         <mark key="." line="174" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1546659149515">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/SlackBinaryPost.java" timestamp="1546209160841">
-        <mark key="[" line="176" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/build.gradle" timestamp="1547431099198">
         <mark key="[" line="65" column="0" />
@@ -151,6 +149,12 @@
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="29" />
         <mark key="." line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/dropbox.sh" timestamp="1547572541882">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="6" column="205" />
+        <mark key="]" line="6" column="205" />
+        <mark key="." line="6" column="205" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/TimerDataMapper.java" timestamp="1546375071016">
         <mark key="[" line="2" column="0" />
@@ -246,24 +250,41 @@
       <jump line="347" column="12" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/AccessUtil.java" />
       <jump line="149" column="16" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimerConfiguration.java" />
       <jump line="153" column="16" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimerConfiguration.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/BvlionBatch/dropbox.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://192.168.11.150:8091/google-home-notifier&quot;</text>
+        <text>mv build/libs/BvlionBatch*.jar build/libs/BvlionBatch.jar</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="4">
-        <text>google-home-notifier</text>
+        <text>s tests</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXYgYnVpbGQvcmVwb3J0cy90ZXN0cyB0ZXN0cwo=</text>
+      </register>
+      <register name="4" type="8">
+        <text>checkstyle checkstyle
+checkstyle checkstyle</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgLy8K</text>
       </register>
-      <register name="2" type="8">
+      <register name="7" type="8">
         <text>SUNDAY
 SUNDAY
 SUNDAY
@@ -272,26 +293,11 @@ SUNDAY
 SUNDAY
 SUNDAY</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICBUaW1lckRhdGVFbnVtKGludCB3ZWVrLCBTdHJpbmcgY29sdW1uTmFtZSkgewogICAgICAgIHRoaXMud2VlayA9IHdlZWs7CiAgICAgICAgdGhpcy5jb2x1bW5OYW1lID0gY29sdW1uTmFtZTsKICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBUd2l0dGVySW1hZ2VFbnVtKGludCBpbWFnZVR5cGUsIFN0cmluZyBzbGFja0NoYW5uZWwsIFN0cmluZyBzZWFyY2hWYWx1ZSkgewogICAgICAgIHRoaXMuaW1hZ2VUeXBlID0gaW1hZ2VUeXBlOwogICAgICAgIHRoaXMuc2xhY2tDaGFubmVsID0gc2xhY2tDaGFubmVsOwogICAgICAgIHRoaXMuc2VhcmNoVmFsdWUgPSBzZWFyY2hWYWx1ZTsKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldEltYWdlVHlwZSgpIHsKICAgICAgICByZXR1cm4gaW1hZ2VUeXBlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2VhcmNoVmFsdWUoKSB7CiAgICAgICAgcmV0dXJuIHNlYXJjaFZhbHVlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2xhY2tDaGFubmVsKCkgewogICAgICAgIHJldHVybiBzbGFja0NoYW5uZWw7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBUd2l0dGVySW1hZ2VFbnVtKGludCBpbWFnZVR5cGUsIFN0cmluZyBzbGFja0NoYW5uZWwsIFN0cmluZyBzZWFyY2hWYWx1ZSkgewogICAgICAgIHRoaXMuaW1hZ2VUeXBlID0gaW1hZ2VUeXBlOwogICAgICAgIHRoaXMuc2xhY2tDaGFubmVsID0gc2xhY2tDaGFubmVsOwogICAgICAgIHRoaXMuc2VhcmNoVmFsdWUgPSBzZWFyY2hWYWx1ZTsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldEltYWdlVHlwZSgpIHsKICAgICAgICByZXR1cm4gaW1hZ2VUeXBlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2VhcmNoVmFsdWUoKSB7CiAgICAgICAgcmV0dXJuIHNlYXJjaFZhbHVlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2xhY2tDaGFubmVsKCkgewogICAgICAgIHJldHVybiBzbGFja0NoYW5uZWw7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcuLi5hKSB7CiAgICAgICAgZmluYWwgU3RyaW5nIGZvcm1hdCA9ICJ5eXl5LU1NLWRkIjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oCgogICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdChHT09HTEVfSE9MSURBWV9VUkwsIEFjY2Vzc1V0aWwuZ2V0TmV4dERhdGUoZm9ybWF0LCAyKSwgQWNjZXNzVXRpbC5nZXROZXh0RGF0ZShmb3JtYXQpKQogICAgICAgICk7CiAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiAgICBUd2l0dGVySW1hZ2VFbnVtKGludCBpbWFnZVR5cGUsIFN0cmluZyBzbGFja0NoYW5uZWwsIFN0cmluZyBzZWFyY2hWYWx1ZSkgewogICAgICAgIHRoaXMuaW1hZ2VUeXBlID0gaW1hZ2VUeXBlOwogICAgICAgIHRoaXMuc2xhY2tDaGFubmVsID0gc2xhY2tDaGFubmVsOwogICAgICAgIHRoaXMuc2VhcmNoVmFsdWUgPSBzZWFyY2hWYWx1ZTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
