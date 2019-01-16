@@ -28,10 +28,10 @@
         <mark key="^" line="54" column="55" />
         <mark key="." line="54" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/FirebaseAdminController.java" timestamp="1547569295260">
-        <mark key="[" line="20" column="74" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/FirebaseAdminController.java" timestamp="1547594438183">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
         <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/ContextListener.java" timestamp="1546751331078">
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Boolean</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Boolean</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
