@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" timestamp="1546206950169">
-        <mark key="[" line="55" column="94" />
-        <mark key="]" line="55" column="94" />
-        <mark key="." line="55" column="94" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/sql/timer_data.sql" timestamp="1545669437911">
-        <mark key="[" line="3" column="68" />
-        <mark key="]" line="3" column="68" />
-        <mark key="." line="3" column="68" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/enums/HolidayEnum.java" timestamp="1547273969950">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="6" column="7" />
@@ -28,22 +18,17 @@
         <mark key="^" line="54" column="55" />
         <mark key="." line="54" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/FirebaseAdminController.java" timestamp="1547594438183">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="^" line="24" column="3" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/FirebaseAdminController.java" timestamp="1547743698221">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/ContextListener.java" timestamp="1546751331078">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="54" column="7" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/TimerDataMapper.xml" timestamp="1546374891626">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/.circleci/config.yml" timestamp="1547579648006">
         <mark key="'" line="58" column="0" />
@@ -72,16 +57,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/RealtimeSettingMapper.java" timestamp="1544713921778">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/SSHConnection.java" timestamp="1546207699326">
-        <mark key="[" line="42" column="61" />
-        <mark key="]" line="42" column="84" />
-        <mark key="." line="42" column="60" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/test/java/net/ambitious/enums/TimerDateEnumTest.java" timestamp="1547570558157">
         <mark key="[" line="17" column="69" />
         <mark key="]" line="17" column="69" />
@@ -94,20 +69,17 @@
         <mark key="^" line="179" column="4" />
         <mark key="." line="174" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546659149515">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/SlackBinaryPost.java" timestamp="1546209160841">
-        <mark key="[" line="176" column="50" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/build.gradle" timestamp="1547431099198">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/.gitignore" timestamp="1547577528927">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/.gitignore" timestamp="1547743820157">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/CheckHolidayConfiguration.java" timestamp="1545664565524">
         <mark key="[" line="48" column="26" />
@@ -131,21 +103,11 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/entity/RealtimeSettingEntity.java" timestamp="1545063680954">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/config/application.yml" timestamp="1545753195151">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="11" />
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/BvlionApplication.java" timestamp="1546660586006">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/UserDataController.java" timestamp="1546659992156">
         <mark key="[" line="53" column="0" />
@@ -158,11 +120,6 @@
         <mark key="]" line="25" column="22" />
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/RealtimeSettingMapper.xml" timestamp="1545631086858">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="29" />
-        <mark key="." line="27" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/dropbox.sh" timestamp="1547579709212">
         <mark key="'" line="2" column="0" />
@@ -272,16 +229,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Boolean</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>Boolean</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3NoIC1wIDUyMzI4IHBpQGFtYml0aW91cy1pLm5ldCBybSBCdmxpb25CYXRjaC9wZXJtaXNzaW9uX3NldHRpbmcuc2gK</text>
+        <text encoding="base64">cmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2NwIC1wciAtUDUyMzI4IGZpcmViYXNlLnNoIHBpQGFtYml0aW91cy1pLm5ldDp+Ly4K</text>
