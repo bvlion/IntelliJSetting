@@ -116,7 +116,7 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/HolidayMapper.xml" timestamp="1547883830801">
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/HolidayMapper.xml" timestamp="1547999107997">
         <mark key="[" line="13" column="63" />
         <mark key="]" line="13" column="63" />
         <mark key="." line="13" column="63" />
@@ -141,10 +141,10 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" timestamp="1547274217707">
-        <mark key="[" line="130" column="48" />
-        <mark key="]" line="130" column="48" />
-        <mark key="." line="130" column="48" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" timestamp="1547999163964">
+        <mark key="[" line="123" column="57" />
+        <mark key="]" line="123" column="57" />
+        <mark key="." line="123" column="57" />
         <mark key="^" line="131" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/HolidayMapper.java" timestamp="1547883420834">
@@ -230,11 +230,11 @@
       <jump line="38" column="30" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>coop</text>
       </register>
       <register name="-" type="4">
-        <text>);</text>
+        <text>coop</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
