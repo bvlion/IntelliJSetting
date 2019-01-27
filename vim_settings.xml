@@ -141,10 +141,10 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" timestamp="1548578896839">
-        <mark key="[" line="123" column="57" />
-        <mark key="]" line="123" column="57" />
-        <mark key="." line="123" column="57" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/TimeNotificationConfiguration.java" timestamp="1548579039136">
+        <mark key="[" line="133" column="36" />
+        <mark key="]" line="133" column="36" />
+        <mark key="." line="133" column="36" />
         <mark key="^" line="131" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/mapper/HolidayMapper.java" timestamp="1547883420834">
@@ -230,11 +230,11 @@
       <jump line="38" column="30" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXBwUGFyYW1zIGFwcFBhcmFtczsKCiAgICBATW9ja0JlYW4KICAgIHByaXZhdGUgRGF0YWJhc2VSZWZlcmVuY2UgcmVmOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTW9ja012YyBtdmM7CgogICAgQEJlZm9yZQogICAgcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIGFwcFBhcmFtcy5zZXRTZWNyZXRLZXlGaWxlUGF0aCgiYmF0L2l3YWktaG9tZS1hcHAtZmlyZWJhc2UtYWRtaW5zZGsuanNvbiIpOwogICAgICAgIEZpbGVJbnB1dFN0cmVhbSBzZXJ2aWNlQWNjb3VudCA9IG5ldyBGaWxlSW5wdXRTdHJlYW0oYXBwUGFyYW1zLmdldFNlY3JldEtleUZpbGVQYXRoKCkpOwoKICAgICAgICBGaXJlYmFzZU9wdGlvbnMgb3B0aW9ucyA9IG5ldyBGaXJlYmFzZU9wdGlvbnMuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0Q3JlZGVudGlhbHMoR29vZ2xlQ3JlZGVudGlhbHMuZnJvbVN0cmVhbShzZXJ2aWNlQWNjb3VudCkpCiAgICAgICAgICAgICAgICAuc2V0RGF0YWJhc2VVcmwoImh0dHBzOi8vaXdhaS1ob21lLWFwcC5maXJlYmFzZWlvLmNvbS8iKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgIEZpcmViYXNlQXBwLmluaXRpYWxpemVBcHAob3B0aW9ucyk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isNoneEmpty</text>
       </register>
       <register name="-" type="4">
-        <text>FirebaseDatabase database;</text>
+        <text>isNoneEmpty</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
