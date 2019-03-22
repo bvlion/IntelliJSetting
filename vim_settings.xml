@@ -74,6 +74,12 @@
         <mark key="." line="17" column="69" />
         <mark key="^" line="16" column="106" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/DatingNotificationConfiguration.java" timestamp="1553222592006">
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="67" column="39" />
+        <mark key="^" line="67" column="39" />
+        <mark key="." line="67" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" timestamp="1548692784269">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="6" />
@@ -104,7 +110,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/report/functions/index.js" timestamp="1551653719692" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/report/functions/index.js" timestamp="1553222271456" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/enums/TwitterImageEnum.java" timestamp="1547569767322">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -237,17 +243,17 @@
       <jump line="38" column="30" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvdGFsRGF5XzEgJSAxMDAgPT0gMCkgewogICAgICAgICAgICAgICAgbWVzc2FnZXMuYXBwZW5kKCLku4rml6Xjgafku5jjgY3lkIjjgaPjgaYiKTsKICAgICAgICAgICAgICAgIG1lc3NhZ2VzLmFwcGVuZChOdW1iZXJGb3JtYXQuZ2V0TnVtYmVySW5zdGFuY2UoKS5mb3JtYXQodG90YWxEYXlfMSkpOwogICAgICAgICAgICAgICAgbWVzc2FnZXMuYXBwZW5kKCLml6Xnm67jgaDjgojimapcbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>\nおめでとう(*･ω･)ﾉ</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvdGFsRGF5XzEgJSAxMDAgPT0gMCkgewogICAgICAgICAgICAgICAgbWVzc2FnZXMuYXBwZW5kKCLku4rml6Xjgafku5jjgY3lkIjjgaPjgaYiKTsKICAgICAgICAgICAgICAgIG1lc3NhZ2VzLmFwcGVuZChOdW1iZXJGb3JtYXQuZ2V0TnVtYmVySW5zdGFuY2UoKS5mb3JtYXQodG90YWxEYXlfMSkpOwogICAgICAgICAgICAgICAgbWVzc2FnZXMuYXBwZW5kKCLml6Xnm67jgaDjgojimapcbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly9idmxpb24tYXBwLmFwcHNwb3QuY29tIiwK</text>
