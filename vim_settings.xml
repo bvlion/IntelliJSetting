@@ -80,7 +80,7 @@
         <mark key="^" line="102" column="4" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" timestamp="1548692784269">
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" timestamp="1555743274645">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="6" />
         <mark key="^" line="179" column="4" />
@@ -110,7 +110,6 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/report/functions/index.js" timestamp="1553222271456" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/enums/TwitterImageEnum.java" timestamp="1547569767322">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
