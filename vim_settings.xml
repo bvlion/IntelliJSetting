@@ -62,6 +62,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="19" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/bat/shells/youtube-dl-upload.sh" timestamp="1555745368350">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/UrlAccessConfiguration.java" timestamp="1551603121731">
         <mark key="[" line="43" column="9" />
         <mark key="]" line="43" column="42" />
@@ -242,8 +248,9 @@
       <jump line="38" column="30" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcuLi5hKSB7CiAgICAgICAgQXBwUGFyYW1zIGFwcFBhcmFtcyA9IG5ldyBBcHBQYXJhbXMoKTsKICAgICAgICBhcHBQYXJhbXMuc2V0U2VjcmV0S2V5RmlsZVBhdGgoIi9Vc2Vycy9pd2FpL3dvcmtzcGFjZS9Cdmxpb25CYXRjaC9iYXQvaXdhaS1ob21lLWFwcC1maXJlYmFzZS1hZG1pbnNkay5qc29uIik7CiAgICAgICAgQWNjZXNzVXRpbC5zZW5kRmNtKEFjY2Vzc1V0aWwuY3JlYXRlVG9rZW5NZXNzYWdlKAogICAgICAgICAgICAgICAgImRUVHlsZjBybEo4OkFQQTkxYkg1Z005T1lpSndodEJYcTBGcEhtODF1MFZWRm11ODhSUDdzMi1Td1JsZWdmLUdEY1VMUC1jRnJzUmk0UkxWZHp1TVNGZmVwWlhSbG5vUnY5YjN3b19jd1A1S19MbktIWVVwS1JKTk1PYVZsQ2RUZmtMZFRDNU82Xy0zaTloWmtaV1NVQWxwIiwKICAgICAgICAgICAgICAgICLjg4bjgrnjg4giLAogICAgICAgICAgICAgICAgIuOBguOBguOBglxu44GE44GE44GE44GEIiwKICAgICAgICAgICAgICAgICJkYXRpbmciCiAgICAgICAgKSwgYXBwUGFyYW1zLCBsb2cpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text># youtube-dl実行
+/usr/local/bin/youtube-dl -o</text>
       </register>
       <register name="-" type="4">
         <text>\nおめでとう(*･ω･)ﾉ</text>
@@ -251,8 +258,9 @@
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvdGFsRGF5XzEgJSAxMDAgPT0gMCkgewogICAgICAgICAgICAgICAgbWVzc2FnZXMuYXBwZW5kKCLku4rml6Xjgafku5jjgY3lkIjjgaPjgaYiKTsKICAgICAgICAgICAgICAgIG1lc3NhZ2VzLmFwcGVuZChOdW1iZXJGb3JtYXQuZ2V0TnVtYmVySW5zdGFuY2UoKS5mb3JtYXQodG90YWxEYXlfMSkpOwogICAgICAgICAgICAgICAgbWVzc2FnZXMuYXBwZW5kKCLml6Xnm67jgaDjgojimapcbiIpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text># youtube-dl実行
+/usr/local/bin/youtube-dl -o</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcuLi5hKSB7CiAgICAgICAgQXBwUGFyYW1zIGFwcFBhcmFtcyA9IG5ldyBBcHBQYXJhbXMoKTsKICAgICAgICBhcHBQYXJhbXMuc2V0U2VjcmV0S2V5RmlsZVBhdGgoIi9Vc2Vycy9pd2FpL3dvcmtzcGFjZS9Cdmxpb25CYXRjaC9iYXQvaXdhaS1ob21lLWFwcC1maXJlYmFzZS1hZG1pbnNkay5qc29uIik7CiAgICAgICAgQWNjZXNzVXRpbC5zZW5kRmNtKEFjY2Vzc1V0aWwuY3JlYXRlVG9rZW5NZXNzYWdlKAogICAgICAgICAgICAgICAgImRUVHlsZjBybEo4OkFQQTkxYkg1Z005T1lpSndodEJYcTBGcEhtODF1MFZWRm11ODhSUDdzMi1Td1JsZWdmLUdEY1VMUC1jRnJzUmk0UkxWZHp1TVNGZmVwWlhSbG5vUnY5YjN3b19jd1A1S19MbktIWVVwS1JKTk1PYVZsQ2RUZmtMZFRDNU82Xy0zaTloWmtaV1NVQWxwIiwKICAgICAgICAgICAgICAgICLjg4bjgrnjg4giLAogICAgICAgICAgICAgICAgIuOBguOBguOBglxu44GE44GE44GE44GEIiwKICAgICAgICAgICAgICAgICJkYXRpbmciCiAgICAgICAgKSwgYXBwUGFyYW1zLCBsb2cpOwogICAgfQo=</text>
