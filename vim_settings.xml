@@ -9,9 +9,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/firebase.sh" timestamp="1547579128924">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/SlackHttpPost.java" timestamp="1546207676137">
         <mark key="[" line="54" column="52" />
         <mark key="]" line="54" column="118" />
@@ -122,6 +119,7 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/bat/shells/upload.sh" timestamp="1556991033285" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/config/application.yml" timestamp="1553225522778">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="11" />
@@ -140,6 +138,7 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/bat/shells/camera_mode.sh" timestamp="1556991013370" />
       <file name="$USER_HOME$/workspace/BvlionBatch/dropbox.sh" timestamp="1547579709212">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="6" column="205" />
