@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" timestamp="1556995519486">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="94" column="27" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/enums/HolidayEnum.java" timestamp="1547273969950">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="6" column="7" />
@@ -71,6 +78,7 @@
         <mark key="." line="43" column="42" />
         <mark key="^" line="43" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/bat/permission_setting.sh" timestamp="1556998478892" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/test/java/net/ambitious/enums/TimerDateEnumTest.java" timestamp="1547570558157">
         <mark key="[" line="17" column="69" />
         <mark key="]" line="17" column="69" />
@@ -89,6 +97,12 @@
         <mark key="^" line="179" column="4" />
         <mark key="." line="174" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/HoroscopeConfiguration.java" timestamp="1556998308098">
+        <mark key="[" line="112" column="59" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="131" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/build.gradle" timestamp="1548092587787">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -106,10 +120,10 @@
         <mark key="." line="48" column="27" />
         <mark key="^" line="41" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" timestamp="1547883732973">
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" timestamp="1556996268375">
         <mark key="'" line="38" column="30" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="55" column="9" />
         <mark key="." line="70" column="0" />
         <mark key="^" line="72" column="28" />
       </file>
@@ -245,48 +259,48 @@
       <jump line="0" column="10" filename="$USER_HOME$/workspace/BvlionBatch/firebase.sh" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/BvlionBatch/firebase.sh" />
       <jump line="38" column="30" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/CheckHolidayTasklet.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" />
+      <jump line="36" column="21" filename="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/HoroscopeConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text># youtube-dl実行
-/usr/local/bin/youtube-dl -o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\nおめでとう(*･ω･)ﾉ</text>
+        <text>message.toString()</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="4">
-        <text># youtube-dl実行
-/usr/local/bin/youtube-dl -o</text>
+        <text>\\n</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcuLi5hKSB7CiAgICAgICAgQXBwUGFyYW1zIGFwcFBhcmFtcyA9IG5ldyBBcHBQYXJhbXMoKTsKICAgICAgICBhcHBQYXJhbXMuc2V0U2VjcmV0S2V5RmlsZVBhdGgoIi9Vc2Vycy9pd2FpL3dvcmtzcGFjZS9Cdmxpb25CYXRjaC9iYXQvaXdhaS1ob21lLWFwcC1maXJlYmFzZS1hZG1pbnNkay5qc29uIik7CiAgICAgICAgQWNjZXNzVXRpbC5zZW5kRmNtKEFjY2Vzc1V0aWwuY3JlYXRlVG9rZW5NZXNzYWdlKAogICAgICAgICAgICAgICAgImRUVHlsZjBybEo4OkFQQTkxYkg1Z005T1lpSndodEJYcTBGcEhtODF1MFZWRm11ODhSUDdzMi1Td1JsZWdmLUdEY1VMUC1jRnJzUmk0UkxWZHp1TVNGZmVwWlhSbG5vUnY5YjN3b19jd1A1S19MbktIWVVwS1JKTk1PYVZsQ2RUZmtMZFRDNU82Xy0zaTloWmtaV1NVQWxwIiwKICAgICAgICAgICAgICAgICLjg4bjgrnjg4giLAogICAgICAgICAgICAgICAgIuOBguOBguOBglxu44GE44GE44GE44GEIiwKICAgICAgICAgICAgICAgICJkYXRpbmciCiAgICAgICAgKSwgYXBwUGFyYW1zLCBsb2cpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly9idmxpb24tYXBwLmFwcHNwb3QuY29tIiwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcuLi5hKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGdldEhvcm9zY29wZU1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcuLi5hKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGdldEhvcm9zY29wZU1lc3NhZ2UoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4ubG9nNGouTG9nNGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRvZGF5ID0gQWNjZXNzVXRpbC5nZXROb3coInl5eXkvTU0vZGQiKTsKICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBtZXNzYWdlID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKCiAgICAgICAgICAgIFJlcXVlc3QgcmVxdWVzdCA9IFJlcXVlc3QuR2V0KCJodHRwOi8vYXBpLmp1Z2Vta2V5LmpwL2FwaS9ob3Jvc2NvcGUvZnJlZS8iICsgdG9kYXkpOwogICAgICAgICAgICBSZXNwb25zZSByZXMgPSBudWxsOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgcmVzID0gcmVxdWVzdC5leGVjdXRlKCk7CiAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGpzb24gPSBuZXcgSlNPTk9iamVjdChuZXcgU3RyaW5nKHJlcy5yZXR1cm5Db250ZW50KCkuYXNCeXRlcygpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGhvcm9zY29wZSA9IGpzb24uZ2V0SlNPTk9iamVjdCgiaG9yb3Njb3BlIik7CiAgICAgICAgICAgICAgICBKU09OQXJyYXkgdG9kYXlEYXRhID0gaG9yb3Njb3BlLmdldEpTT05BcnJheSh0b2RheSk7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHRvZGF5RGF0YS5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgSlNPTk9iamVjdCBvYmplY3QgPSB0b2RheURhdGEuZ2V0SlNPTk9iamVjdChpKTsKICAgICAgICAgICAgICAgICAgICBpZiAoIuWPjOWtkOW6pyIuZXF1YWxzKG9iamVjdC5nZXRTdHJpbmcoInNpZ24iKSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQodG9kYXkpOwogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmFwcGVuZCgi44Gu5Y+M5a2Q5bqn44Gu6YGL5Yui44Gv44CB56ysIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKG9iamVjdC5nZXRJbnQoInJhbmsiKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKCLkvY3vvIFcXG4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQob2JqZWN0LmdldFN0cmluZygiY29udGVudCIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQoIlxcbiIpOwogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmFwcGVuZCgi44Op44OD44Kt44O844Kr44Op44O844Gv44CMIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKG9iamVjdC5nZXRTdHJpbmcoImNvbG9yIikpOwogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmFwcGVuZCgi44CN44CBXFxuIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKCLjg6njg4Pjgq3jg7zjgqLjgqTjg4bjg6Djga/jgIwiKTsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQob2JqZWN0LmdldFN0cmluZygiaXRlbSIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQoIuOAjeOBoOOCiOOAglxcbiIpOwogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmFwcGVuZCgi6YeR6YGL77yaIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKG9iamVjdC5nZXRJbnQoIm1vbmV5IikpOwogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmFwcGVuZCgiXFxuIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKCLku5XkuovpgYvvvJoiKTsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQob2JqZWN0LmdldEludCgiam9iIikpOwogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmFwcGVuZCgiXFxuIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKCLmgYvmhJvpgYvvvJoiKTsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQob2JqZWN0LmdldEludCgibG92ZSIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQoIlxcbiIpOwogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmFwcGVuZCgi57eP5ZCI6KmV5L6h77yaIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKG9iamVjdC5nZXRJbnQoInRvdGFsIikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCJIb2xpZGF5IEdldCBFcnJvciIsIGUpOwogICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgaWYgKHJlcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzLmRpc2NhcmRDb250ZW50KCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChtZXNzYWdlLmxlbmd0aCgpID09IDApIHsKICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKHRvZGF5KTsKICAgICAgICAgICAgICAgIG1lc3NhZ2UuYXBwZW5kKCLjga7lj4zlrZDluqfjga7pgYvli6Ljga/lj5blvpfjgafjgY3jgb7jgZvjgpPjgafjgZfjgZ8owrTvvaXPie+9pWApIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QExvZzRqCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZy4uLmEpIHsKCQlhY2Nlc3NHZXQoImh0dHBzOi8vcmVkbWluZTEwMS5kaXAuanAiLCBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBY2Nlc3NVdGlsLmNsYXNzKSwgQWNjZXNzVXRpbC5jbGFzcyk7Cgl9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBBY2Nlc3NVdGlsLmdldE5leHREYXRlKCkgKyAi44Gu5rGf5p2x5Yy644Gu5aSp5rCX44GvXFxuIgogICAgICAgICAgICAgICAgICAgICsgIirmnIDpq5jmsJfmuKkgIiArIG1heFRtcCArICIqXFxuIgogICAgICAgICAgICAgICAgICAgICsgIirmnIDkvY7msJfmuKkgIiArIG1pblRtcCArICIqXFxuIgogICAgICAgICAgICAgICAgICAgICsgIioiICsgcmFpbnlQZXJjZW50ICsgIipcXG4iCiAgICAgICAgICAgICAgICAgICAgKyAi6aKo44GvICoiICsgd2luZFswXSArICLjgavmr47mmYIiICsgd2luZFsxXSArICJrbSog44Gn5ZC544GNXFxuIgogICAgICAgICAgICAgICAgICAgICsgIirkvZPmhJ/msJfmuKnjga8iICsgcmVhbEZlZWwgKyAiKiDjgajjgarjgovopovovrzjgb/jgafjgZk8KF8gXyk+XFxuIgogICAgICAgICAgICAgICAgICAgICsgIuOCtuODg+OCr+ODquiogOOBhuOBqOOAjCIgKyBjb21tZW50ICsgIuOAjeOBqOOBhOOBhuaEn+OBmOOBp+OBmSjvvaXiiIDvvaUpIiArICJcXG4iCiAgICAgICAgICAgICAgICAgICAgKyAiXFxuIgogICAgICAgICAgICAgICAgICAgICsgIuips+e0sOOBr+OBk+OBoeOCieKGk+KGk1xcbiIKICAgICAgICAgICAgICAgICAgICArICJodHRwOi8vbS5hY2N1aG9yb3Njb3BlLmNvbS9qYS9qcC9rb3RvLWt1LzIyMTIzMC9ob3VybHktaG9yb3Njb3BlLWZvcmVjYXN0LzIyMTIzMD9kYXk9MiI7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXBwUGFyYW1zIGFwcFBhcmFtczsKCiAgICBATW9ja0JlYW4KICAgIHByaXZhdGUgRGF0YWJhc2VSZWZlcmVuY2UgcmVmOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTW9ja012YyBtdmM7CgogICAgQEJlZm9yZQogICAgcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIGFwcFBhcmFtcy5zZXRTZWNyZXRLZXlGaWxlUGF0aCgiYmF0L2l3YWktaG9tZS1hcHAtZmlyZWJhc2UtYWRtaW5zZGsuanNvbiIpOwogICAgICAgIEZpbGVJbnB1dFN0cmVhbSBzZXJ2aWNlQWNjb3VudCA9IG5ldyBGaWxlSW5wdXRTdHJlYW0oYXBwUGFyYW1zLmdldFNlY3JldEtleUZpbGVQYXRoKCkpOwoKICAgICAgICBGaXJlYmFzZU9wdGlvbnMgb3B0aW9ucyA9IG5ldyBGaXJlYmFzZU9wdGlvbnMuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0Q3JlZGVudGlhbHMoR29vZ2xlQ3JlZGVudGlhbHMuZnJvbVN0cmVhbShzZXJ2aWNlQWNjb3VudCkpCiAgICAgICAgICAgICAgICAuc2V0RGF0YWJhc2VVcmwoImh0dHBzOi8vaXdhaS1ob21lLWFwcC5maXJlYmFzZWlvLmNvbS8iKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgIEZpcmViYXNlQXBwLmluaXRpYWxpemVBcHAob3B0aW9ucyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQoIlxcbiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0CkBSdW5XaXRoKFNwcmluZ1J1bm5lci5jbGFzcykKQEF1dG9Db25maWd1cmVNb2NrTXZjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5hcHBlbmQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
