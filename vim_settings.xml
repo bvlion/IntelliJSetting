@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/README.md" timestamp="1568386517230" />
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/RealtimeSettingMapper.java" timestamp="1567830618328">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -59,7 +58,7 @@
         <mark key="^" line="179" column="4" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568385515621">
+      <file name="/Dummy.txt" timestamp="1568388275205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/FirstAccessTasklet.java" timestamp="1557002678019">
@@ -128,7 +127,6 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/config/application.yml" timestamp="1568387151584" />
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/HolidayMapper.xml" timestamp="1567831158724">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="45" />
