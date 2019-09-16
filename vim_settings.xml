@@ -12,9 +12,9 @@
       <file name="/a.dummy" timestamp="1568617068795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/TemperatureHumidityController.java" timestamp="1568622623409">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="5" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/TemperatureHumidityController.java" timestamp="1568623495778">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="84" column="32" />
         <mark key="." line="28" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/Mp3Mapper.java" timestamp="1567830613309">
@@ -221,8 +221,8 @@
       <jump line="443219" column="16" filename="$USER_HOME$/workspace/BvlionBatch2/log/mysql/mysqld.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ProceedingJoinPoint pjp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInZhciBjaGFydCA9IG5ldyBDYW52YXNKUy5DaGFydChcImNoYXJ0Q29udGFpbmVyXCIsIgogICAgICAgICAgICArIGpzb24udG9TdHJpbmcoKQogICAgICAgICAgICArICIpOyIKICAgICAgICAgICAgKyAiY2hhcnQucmVuZGVyKCk7IjsK</text>
       </register>
       <register name="-" type="4">
         <text>ProceedingJoinPoint pjp</text>
@@ -230,8 +230,8 @@
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxFeGVjVGltZUVudGl0eT4gZXhlY1RpbWVz</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInZhciBjaGFydCA9IG5ldyBDYW52YXNKUy5DaGFydChcImNoYXJ0Q29udGFpbmVyXCIsIgogICAgICAgICAgICArIGpzb24udG9TdHJpbmcoKQogICAgICAgICAgICArICIpOyIKICAgICAgICAgICAgKyAiY2hhcnQucmVuZGVyKCk7IjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLlJlc3BvbnNlRW50aXR5Owo=</text>
