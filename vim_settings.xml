@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" timestamp="1568395671836" />
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" timestamp="1569035418489">
+        <mark key="[" line="116" column="23" />
+        <mark key="]" line="116" column="70" />
+        <mark key="." line="116" column="26" />
+        <mark key="^" line="116" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/RealtimeSettingMapper.java" timestamp="1567830618328">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -293,43 +298,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Sm9ydWRhbkNvbmZpZ3VyYXRpb24uY2xhc3MsIA==</text>
+        <text>0 #{new java.util.Random().nextInt(10)} 22 * * ?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Sm9ydWRhbkNvbmZpZ3VyYXRpb24uY2xhc3MsIA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="4">
-        <text>FastDateFormat.getInstance(&quot;yyyyMMddHHmmss&quot;).format(Calendar.getInstance())</text>
+        <text>0 #{new java.util.Random().nextInt(10)} 22 * * ?</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJVGltZU5vdGlmaWNhdGlvbkNvbmZpZ3VyYXRpb24uY2xhc3MsCg==</text>
+      <register name="1" type="4">
+        <text>Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX2J) AppleWebKit/537.36 (KHTML, like Gecko) &quot;
+                    + &quot;Chrome/75.0.3770.143 Mobile Safari/537.36</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQlUaW1lTm90aWZpY2F0aW9uQ29uZmlndXJhdGlvbi5jbGFzcywK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCVRpbWVOb3RpZmljYXRpb25Db25maWd1cmF0aW9uLmNsYXNzLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJVGltZU5vdGlmaWNhdGlvbkNvbmZpZ3VyYXRpb24uY2xhc3MsCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJCQlUaW1lTm90aWZpY2F0aW9uQ29uZmlndXJhdGlvbi5jbGFzcywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCVRpbWVOb3RpZmljYXRpb25Db25maWd1cmF0aW9uLmNsYXNzLAo=</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJVGltZU5vdGlmaWNhdGlvbkNvbmZpZ3VyYXRpb24uY2xhc3MsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQl0cnkgewoJCQl2YXIgdXJsID0gbmV3IFVSTChhcHBQYXJhbXMuZ2V0R29vZ2xlSG9tZU5vdGlmaWVyVXJsKCkpOwoJCQl2YXIgY29uID0gKEh0dHBVUkxDb25uZWN0aW9uKSB1cmwub3BlbkNvbm5lY3Rpb24oKTsKCQkJY29uLnNldFJlcXVlc3RNZXRob2QoIlBPU1QiKTsKCQkJY29uLnNldFVzZUNhY2hlcyhmYWxzZSk7CgkJCWNvbi5zZXREb0lucHV0KHRydWUpOwoJCQljb24uc2V0RG9PdXRwdXQodHJ1ZSk7CgoJCQl0cnkgKHZhciB3ciA9IG5ldyBEYXRhT3V0cHV0U3RyZWFtKGNvbi5nZXRPdXRwdXRTdHJlYW0oKSkpIHsKCQkJCXZhciBieXRlcyA9ICgidGV4dD0iICsgbWVzc2FnZSkuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCk7CgkJCQlmb3IgKHZhciB0ZXh0Qnl0ZSA6IGJ5dGVzKSB7CgkJCQkJd3Iud3JpdGVCeXRlKHRleHRCeXRlKTsKCQkJCX0KCQkJfQoKCQkJdHJ5ICh2YXIgYnIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGNvbi5nZXRJbnB1dFN0cmVhbSgpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSkpIHsKCQkJCWxvZy5pbmZvKGJyLmxpbmVzKCkuY29sbGVjdChDb2xsZWN0b3JzLmpvaW5pbmcoIlxuIikpKTsKCQkJfQoJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJbG9nLmVycm9yKGNsYXp6LmdldE5hbWUoKSArICIgQWNjZXNzIEVycm9yIiwgZSk7CgkJfQo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">cHJpdmF0ZSBmaW5hbCAKcHJpdmF0ZSBmaW5hbCA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGdvb2dsZUhvbWVOb3RpZmllclVybDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YXBwZGF0YS5nb29nbGVIb21lTm90aWZpZXJVcmw9JHtHT09HTEVfSE9NRV9OT1RJRklFUl9VUkx9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLlJlc3BvbnNlRW50aXR5Owo=</text>
+        <text encoding="base64">YXBwZGF0YS5nb29nbGVIb21lTm90aWZpZXJVcmw9JHtHT09HTEVfSE9NRV9OT1RJRklFUl9VUkx9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
