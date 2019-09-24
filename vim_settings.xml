@@ -112,8 +112,8 @@
         <mark key="]" line="38" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/check/UserDataController.java" timestamp="1568394793984" />
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/SSHConnection.java" timestamp="1569282944441">
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/SSHConnection.java" timestamp="1569285789558">
+        <mark key="[" line="43" column="31" />
         <mark key="]" line="32" column="37" />
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
@@ -173,10 +173,10 @@
         <mark key="^" line="146" column="15" />
         <mark key="." line="190" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/application.properties" timestamp="1569282500638">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/application.properties" timestamp="1569286016641">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
         <mark key="^" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/entity/JorudanDataEntity.java" timestamp="1567830670969">
@@ -281,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getSPassPhrase</text>
+        <text>WORD</text>
       </register>
       <register name="-" type="4">
-        <text>getSPassPhrase</text>
+        <text>WORD</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
