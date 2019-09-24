@@ -130,7 +130,7 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/TimeNotificationConfiguration.java" timestamp="1569033916863">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/TimeNotificationConfiguration.java" timestamp="1569363404033">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -172,11 +172,11 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AccessUtil.java" timestamp="1569283177323">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="207" column="9" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="201" column="4" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AccessUtil.java" timestamp="1569363032833">
+        <mark key="[" line="235" column="37" />
+        <mark key="]" line="235" column="37" />
+        <mark key="." line="235" column="37" />
+        <mark key="^" line="235" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/TemperatureHumidityMapper.java" timestamp="1567830624022">
         <mark key="[" line="2" column="0" />
@@ -315,16 +315,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AccessUtil.getNextDate(&quot;yyyy-MM-dd&quot;)</text>
+        <text>startTime</text>
       </register>
       <register name="-" type="4">
-        <text>AccessUtil.getNextDate(&quot;yyyy-MM-dd&quot;)</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
+      <register name="0" type="4">
+        <text>startTime</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2NoZWR1bGVyLnRpbWUuY3JvbjU9JHtTQ0hFRFVMRVJfVElNRV9DUk9ONX0K</text>
