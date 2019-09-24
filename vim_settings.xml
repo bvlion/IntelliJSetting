@@ -172,11 +172,11 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AccessUtil.java" timestamp="1569363032833">
-        <mark key="[" line="235" column="37" />
-        <mark key="]" line="235" column="37" />
-        <mark key="." line="235" column="37" />
-        <mark key="^" line="235" column="37" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AccessUtil.java" timestamp="1569364485635">
+        <mark key="[" line="249" column="37" />
+        <mark key="]" line="249" column="39" />
+        <mark key="." line="249" column="39" />
+        <mark key="^" line="249" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/TemperatureHumidityMapper.java" timestamp="1567830624022">
         <mark key="[" line="2" column="0" />
@@ -315,40 +315,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>startTime</text>
+        <text>Calendar.getInstance(AccessUtil.TOKYO)</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>Calendar.getInstance(AccessUtil.TOKYO)</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="4">
-        <text>startTime</text>
+        <text>value.getHours()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2NoZWR1bGVyLnRpbWUuY3JvbjU9JHtTQ0hFRFVMRVJfVElNRV9DUk9ONX0K</text>
+        <text encoding="base64">CQkJCQkJbmV3IEdyZWdvcmlhbkNhbGVuZGFyKAoJCQkJCQkJCWNhbC5nZXQoQ2FsZW5kYXIuWUVBUiksCgkJCQkJCQkJY2FsLmdldChDYWxlbmRhci5NT05USCksCgkJCQkJCQkJY2FsLmdldChDYWxlbmRhci5EQVRFKSwKCQkJCQkJCQl2YWx1ZS5nZXRIb3VycygpLAoJCQkJCQkJCXZhbHVlLmdldE1pbnV0ZXMoKQoJCQkJCQkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwZGF0YS5nb29nbGVDYWxlbmRhcktleT0ke0dPT0dMRV9DQUxFTkRBUl9LRVl9Cg==</text>
+        <text encoding="base64">c2NoZWR1bGVyLnRpbWUuY3JvbjU9JHtTQ0hFRFVMRVJfVElNRV9DUk9ONX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGdvb2dsZUNhbGVuZGFyS2V5Owo=</text>
+        <text encoding="base64">YXBwZGF0YS5nb29nbGVDYWxlbmRhcktleT0ke0dPT0dMRV9DQUxFTkRBUl9LRVl9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGdvb2dsZUNhbGVuZGFyS2V5Owo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlBY2Nlc3NVdGlsLnBvc3RHb29nbGVIb21lKHRleHQsIGxvZywgYXBwUGFyYW1zKTsK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>s
 s
 s
 s</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">cHJpdmF0ZSBTdHJpbmcgCnByaXZhdGUgU3RyaW5nIApwcml2YXRlIFN0cmluZyA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlAU2V0dGVyCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQlAU2V0dGVyCg==</text>
