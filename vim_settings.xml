@@ -135,12 +135,12 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/IftttWebhookController.java" timestamp="1569344445374">
-        <mark key="'" line="155" column="15" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="18" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="56" column="59" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/IftttWebhookController.java" timestamp="1569345857265">
+        <mark key="'" line="157" column="15" />
+        <mark key="[" line="48" column="58" />
+        <mark key="]" line="60" column="61" />
+        <mark key="." line="60" column="61" />
+        <mark key="^" line="60" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/docker_db/init/dating.sql" timestamp="1568380594860">
         <mark key="[" line="2" column="36" />
@@ -314,11 +314,11 @@
       <jump line="154" column="15" filename="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/IftttWebhookController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2NoZWR1bGVyLnRpbWUuY3JvbjU9JHtTQ0hFRFVMRVJfVElNRV9DUk9ONX0K</text>
+      <register name="&quot;" type="4">
+        <text>AccessUtil.getNextDate(&quot;yyyy-MM-dd&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>@RequestParam(&quot;text&quot;) String text</text>
+        <text>AccessUtil.getNextDate(&quot;yyyy-MM-dd&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
