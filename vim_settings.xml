@@ -18,7 +18,7 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/HoroscopeConfiguration.java" timestamp="1569665438280">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/HoroscopeConfiguration.java" timestamp="1569668383297">
         <mark key="[" line="72" column="66" />
         <mark key="]" line="72" column="67" />
         <mark key="^" line="72" column="65" />
@@ -49,6 +49,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/DatingNotificationConfiguration.java" timestamp="1569668308365">
+        <mark key="[" line="54" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/DatingMapper.xml" timestamp="1569448203597">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -66,7 +69,7 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/UrlAccessConfiguration.java" timestamp="1569666601511">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/UrlAccessConfiguration.java" timestamp="1569668302268">
         <mark key="[" line="59" column="69" />
         <mark key="]" line="59" column="69" />
         <mark key="^" line="59" column="69" />
