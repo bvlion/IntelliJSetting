@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/RealtimeSettingMapper.java" timestamp="1567830618328">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1568617068795">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,11 +10,6 @@
         <mark key="[" line="81" column="0" />
         <mark key="]" line="84" column="32" />
         <mark key="." line="28" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/TwitterImageMapper.xml" timestamp="1567831223876">
-        <mark key="[" line="3" column="71" />
-        <mark key="]" line="3" column="85" />
-        <mark key="." line="3" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/SlackBinaryPost.java" timestamp="1569540249544">
         <mark key="[" line="195" column="75" />
@@ -37,23 +27,8 @@
         <mark key="^" line="72" column="65" />
         <mark key="." line="72" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/FlickrController.java" timestamp="1557002298157">
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="67" />
-        <mark key="." line="38" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/RealtimeSettingMapper.xml" timestamp="1567831203756">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="69" />
-        <mark key="." line="4" column="55" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/TimerDataMapper.java" timestamp="1569538629711">
         <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/component/FirstAccessTasklet.java" timestamp="1557002678019">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="26" />
-        <mark key="." line="38" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/TimerConfiguration.java" timestamp="1569416121705">
         <mark key="[" line="64" column="65" />
@@ -70,21 +45,6 @@
         <mark key="^" line="52" column="92" />
         <mark key="." line="52" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/enums/TwitterImageEnum.java" timestamp="1564671483804">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/UserMapper.xml" timestamp="1567831232164">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/JorudanDataMapper.xml" timestamp="1567831182697">
-        <mark key="[" line="9" column="60" />
-        <mark key="]" line="9" column="74" />
-        <mark key="." line="9" column="60" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/component/WeatherNotificationTasklet.java" timestamp="1569033925020">
         <mark key="[" line="88" column="66" />
         <mark key="]" line="88" column="66" />
@@ -92,11 +52,6 @@
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/DatingNotificationConfiguration.java" timestamp="1569416037592">
         <mark key="[" line="54" column="65" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/test/java/net/ambitious/util/AccessUtilTest.java" timestamp="1547571294174">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/DatingMapper.xml" timestamp="1569448203597">
         <mark key="[" line="9" column="16" />
@@ -115,11 +70,6 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/test/java/net/ambitious/web/controller/FirebaseAdminControllerTest.java" timestamp="1548265949072">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/UrlAccessConfiguration.java" timestamp="1569416166564">
         <mark key="[" line="59" column="69" />
         <mark key="]" line="59" column="69" />
@@ -132,11 +82,6 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/TimeNotificationConfiguration.java" timestamp="1569363404033">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/IftttWebhookController.java" timestamp="1569643201276">
         <mark key="'" line="188" column="15" />
         <mark key="[" line="188" column="48" />
@@ -144,18 +89,8 @@
         <mark key="." line="189" column="7" />
         <mark key="^" line="189" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/docker-compose.yml" timestamp="1568388999621">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1568388635928">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/JorudanDataMapper.java" timestamp="1567830602983">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AopComponent.java" timestamp="1568394657828">
         <mark key="[" line="23" column="33" />
@@ -169,18 +104,8 @@
         <mark key="." line="65" column="87" />
         <mark key="^" line="257" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/TemperatureHumidityMapper.java" timestamp="1567830624022">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/Procfile" timestamp="1569644422138">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/Procfile" timestamp="1569645339170">
         <mark key="[" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/build.gradle" timestamp="1569280081340">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="37" />
-        <mark key="." line="54" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/TimesController.java" timestamp="1569540228650">
         <mark key="[" line="107" column="50" />
@@ -203,11 +128,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/entity/JorudanDataEntity.java" timestamp="1567830670969">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/HolidayMapper.xml" timestamp="1568388884682">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="45" />
@@ -225,10 +145,10 @@
         <mark key="]" line="149" column="55" />
         <mark key="." line="147" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/build.gradle" timestamp="1569280108368">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="4" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/build.gradle" timestamp="1569645846186">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -308,17 +228,17 @@
       <jump line="154" column="15" filename="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/IftttWebhookController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>org.projectlombok:lombok</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZV9uYW1lLCA=</text>
+        <text>org.projectlombok:lombok</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text>@Param(&quot;file_name&quot;) int fileName</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWNvbXBpbGVPbmx5ICdvcmcucHJvamVjdGxvbWJvazpsb21ib2snCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
