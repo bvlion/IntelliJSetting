@@ -75,18 +75,6 @@
         <mark key="]" line="15" column="12" />
         <mark key="." line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/docker_db/Dockerfile" timestamp="1568379470868">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/FirebaseAdminController.java" timestamp="1567830419321">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="10" />
-        <mark key="." line="22" column="10" />
-        <mark key="^" line="22" column="10" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/UserMapper.xml" timestamp="1567831232164">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="46" />
@@ -109,12 +97,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AppParams.java" timestamp="1569345101666">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/DatingMapper.xml" timestamp="1569448203597">
         <mark key="[" line="9" column="16" />
@@ -162,22 +144,10 @@
         <mark key="." line="189" column="7" />
         <mark key="^" line="189" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/docker_db/init/dating.sql" timestamp="1568380594860">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/docker-compose.yml" timestamp="1568388999621">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" timestamp="1566923060687">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="5" />
-        <mark key="^" line="179" column="4" />
-        <mark key="." line="26" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1568388635928">
         <mark key="[" line="0" column="0" />
@@ -204,6 +174,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/Procfile" timestamp="1569644422138">
+        <mark key="[" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/build.gradle" timestamp="1569280081340">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="37" />
@@ -213,12 +186,6 @@
         <mark key="[" line="107" column="50" />
         <mark key="]" line="107" column="67" />
         <mark key="." line="107" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/exception/NotFoundException.java" timestamp="1567830216058">
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/TimerDataMapper.xml" timestamp="1569538237313">
         <mark key="[" line="4" column="55" />
