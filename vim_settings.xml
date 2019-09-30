@@ -99,6 +99,7 @@
         <mark key="." line="195" column="0" />
         <mark key="^" line="199" column="46" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.7/4fa8cfcfa162d2b2a76c3be71563ccbfb234a5d9/twitter4j-core-4.0.7-sources.jar!/twitter4j/api/SearchResource.java" timestamp="1569855365454" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/UrlAccessConfiguration.java" timestamp="1568389219745" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/TemperatureHumidityMapper.xml" timestamp="1568621447232" />
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AopComponent.java" timestamp="1568394657828">
