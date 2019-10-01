@@ -25,7 +25,19 @@
         <mark key="^" line="72" column="65" />
         <mark key="." line="72" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/AccessUtil.java" timestamp="1569281735160">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="250" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/UserMapper.java" timestamp="1569677822814" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/component/CheckHolidayTasklet.java" timestamp="1569343595734">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/2.0.2/2e749e3bf161ebe7ddf900cffc7a76a9043e8e92/mybatis-spring-2.0.2-sources.jar!/org/mybatis/spring/batch/MyBatisBatchItemWriter.java" timestamp="1568391516863">
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="84" column="92" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/Mp3Mapper.xml" timestamp="1569643108522">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="28" column="23" />
@@ -37,6 +49,15 @@
         <mark key="]" line="66" column="9" />
         <mark key="^" line="52" column="92" />
         <mark key="." line="52" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/TwitterChannelsMapper.xml" timestamp="1569937740388">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="133" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/JorudanDataMapper.xml" timestamp="1569938825986">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="9" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" timestamp="1569798046095">
         <mark key="'" line="79" column="6" />
@@ -80,11 +101,19 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/util/ContextListener.java" timestamp="1569281852345">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/UrlAccessConfiguration.java" timestamp="1569798033894">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="46" column="50" />
         <mark key="^" line="59" column="69" />
         <mark key="." line="59" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/check/UserDataController.java" timestamp="1569343506947">
+        <mark key="[" line="46" column="58" />
+        <mark key="]" line="46" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/SSHConnection.java" timestamp="1569285789558">
         <mark key="[" line="43" column="31" />
@@ -102,6 +131,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.7/4fa8cfcfa162d2b2a76c3be71563ccbfb234a5d9/twitter4j-core-4.0.7-sources.jar!/twitter4j/api/SearchResource.java" timestamp="1569855365454" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/UrlAccessConfiguration.java" timestamp="1568389219745" />
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/resources/net/ambitious/mapper/TemperatureHumidityMapper.xml" timestamp="1568621447232" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/JorudanDataMapper.java" timestamp="1569938710859">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AopComponent.java" timestamp="1568394657828">
         <mark key="[" line="23" column="33" />
         <mark key="]" line="23" column="33" />
@@ -131,7 +165,7 @@
         <mark key="]" line="4" column="69" />
         <mark key="." line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/JorudanConfiguration.java" timestamp="1569858239317">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/JorudanConfiguration.java" timestamp="1569938078625">
         <mark key="[" line="205" column="70" />
         <mark key="]" line="205" column="88" />
         <mark key="^" line="146" column="15" />
@@ -141,6 +175,11 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/entity/JorudanDataEntity.java" timestamp="1569939337368">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/HolidayMapper.xml" timestamp="1568388884682">
         <mark key="[" line="2" column="32" />
@@ -245,7 +284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AccessUtil.accessGet(url, null, getClass())</text>
+        <text>SELECT url FROM jorudan</text>
       </register>
       <register name="-" type="4">
         <text>cron = &quot;25 30 7 * * *&quot;</text>
@@ -254,7 +293,7 @@
         <text>json</text>
       </register>
       <register name="0" type="4">
-        <text>AccessUtil.accessGet(url, null, getClass())</text>
+        <text>SELECT url FROM jorudan</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
