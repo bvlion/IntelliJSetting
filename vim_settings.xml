@@ -50,9 +50,9 @@
         <mark key="^" line="52" column="92" />
         <mark key="." line="52" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/TwitterChannelsMapper.xml" timestamp="1569937740388">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="133" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/TwitterChannelsMapper.xml" timestamp="1569943563673">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/JorudanDataMapper.xml" timestamp="1569938825986">
         <mark key="[" line="10" column="8" />
@@ -288,8 +288,8 @@
       <jump line="75" column="6" filename="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXN0YXRpYyBTdHJpbmcgZ2V0TmV4dERhdGUoU3RyaW5nIGZvcm1hdCwgaW50IGFkZERhdGUpIHsKCX0KCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW1hZ2VfdHlwZSwg</text>
       </register>
       <register name="-" type="4">
         <text>addDate</text>
@@ -297,8 +297,8 @@
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlpZiAoYXBwUGFyYW1zLmlzUHJvZHVjdGlvbigpKSB7CgkJCXRyeSB7CgkJCQlTU0hDb25uZWN0aW9uLmdldEluc3RhbmNlKCkucmVDb25uZWN0U1NIKCk7CgkJCQlsb2cuaW5mbygiU1NIIFJlQ29ubmVjdCIpOwoJCQl9IGNhdGNoIChKU2NoRXhjZXB0aW9uIGUpIHsKCQkJCWxvZy5lcnJvcigiU1NIIFJlQ29ubmVjdCBFcnJvciIsIGUpOwoJCQl9CgkJfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW1hZ2VfdHlwZSwg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXN0YXRpYyBTdHJpbmcgZ2V0TmV4dERhdGUoU3RyaW5nIGZvcm1hdCwgaW50IGFkZERhdGUpIHsKCX0KCg==</text>
