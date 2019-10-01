@@ -59,12 +59,11 @@
         <mark key="]" line="10" column="30" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" timestamp="1569798046095">
-        <mark key="'" line="79" column="6" />
-        <mark key="[" line="147" column="71" />
-        <mark key="]" line="147" column="114" />
-        <mark key="." line="147" column="71" />
-        <mark key="^" line="147" column="70" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" timestamp="1569941598397">
+        <mark key="'" line="83" column="6" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="117" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/component/WeatherNotificationTasklet.java" timestamp="1569033925020">
         <mark key="[" line="88" column="66" />
@@ -111,9 +110,9 @@
         <mark key="^" line="59" column="69" />
         <mark key="." line="59" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/check/UserDataController.java" timestamp="1569343506947">
-        <mark key="[" line="46" column="58" />
-        <mark key="]" line="46" column="79" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/check/UserDataController.java" timestamp="1569940698523">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/SSHConnection.java" timestamp="1569285789558">
         <mark key="[" line="43" column="31" />
@@ -165,11 +164,11 @@
         <mark key="]" line="4" column="69" />
         <mark key="." line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/JorudanConfiguration.java" timestamp="1569939979514">
-        <mark key="[" line="205" column="70" />
-        <mark key="]" line="205" column="88" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/configuration/JorudanConfiguration.java" timestamp="1569941020550">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
         <mark key="^" line="146" column="15" />
-        <mark key="." line="205" column="70" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/application.properties" timestamp="1569642635479">
         <mark key="[" line="30" column="0" />
@@ -283,44 +282,47 @@
       <jump line="75" column="6" filename="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SELECT url FROM jorudan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBKT1JVREFOX0lDT04gPSAiaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc1MzQ3MTgwMy9Kb3J1ZGFuTGl2ZS1JY29uLnBuZyI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cron = &quot;25 30 7 * * *&quot;</text>
+        <text>FastDateFormat.getInstance(&quot;MM/dd HH:mm&quot;, AccessUtil.TOKYO).format(item.getPostedDate())</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT url FROM jorudan</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgic2VhcmNoVmFsdWUiKSBTdHJpbmcgc2VhcmNoVmFsdWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBKT1JVREFOX0lDT04gPSAiaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc1MzQ3MTgwMy9Kb3J1ZGFuTGl2ZS1JY29uLnBuZyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygidXNlcjp7fSIsIHVzZXJOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQl1c2VyTWFwcGVyLmFsbFVzZXJzKCkuZm9yRWFjaChsb2c6OmluZm8pOwo=</text>
+      <register name="3" type="8">
+        <text>text
+text
+text
+text</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmNvbnRleHQuQ29uZmlnRmlsZUFwcGxpY2F0aW9uQ29udGV4dEluaXRpYWxpemVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5ib290LnRlc3QuY29udGV4dC5TcHJpbmdCb290VGVzdDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LkNvbnRleHRDb25maWd1cmF0aW9uOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50ZXN0LmNvbnRleHQuanVuaXQ0LlNwcmluZ1J1bm5lcjsKCmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5uZXQuVVJMOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXV0aC5vYXV0aDIuR29vZ2xlQ3JlZGVudGlhbHM7CmltcG9ydCBjb20uZ29vZ2xlLmZpcmViYXNlLkZpcmViYXNlQXBwOwppbXBvcnQgY29tLmdvb2dsZS5maXJlYmFzZS5GaXJlYmFzZU9wdGlvbnM7CmltcG9ydCBuZXQuYW1iaXRpb3VzLmJ2bGlvbi5iYXRjaDIudXRpbC5BcHBQYXJhbXM7CmltcG9ydCBvcmcuanVuaXQuQmVmb3JlOwo=</text>
+        <text encoding="base64">CQlsb2cuaW5mbygidXNlcjp7fSIsIHVzZXJOYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CglAQmVmb3JlCglwdWJsaWMgdm9pZCBzZXRVcCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CglTeXN0ZW0ub3V0LnByaW50bG4oIkFkbWluU2RrSnNvblVybDoiICsgYXBwUGFyYW1zLmdldEFkbWluU2RrSnNvblVybCgpKTsKCQlpZiAoRmlyZWJhc2VBcHAuZ2V0QXBwcygpLmlzRW1wdHkoKSkgewoJCQl2YXIgb3B0aW9ucyA9IG5ldyBGaXJlYmFzZU9wdGlvbnMuQnVpbGRlcigpCgkJCQkJLnNldENyZWRlbnRpYWxzKEdvb2dsZUNyZWRlbnRpYWxzLmZyb21TdHJlYW0obmV3IFVSTChhcHBQYXJhbXMuZ2V0QWRtaW5TZGtKc29uVXJsKCkpLm9wZW5TdHJlYW0oKSkpCgkJCQkJLnNldERhdGFiYXNlVXJsKCJodHRwczovLyIgKyBhcHBQYXJhbXMuZ2V0RmlyZWJhc2VJZCgpICsgIi5maXJlYmFzZWlvLmNvbS8iKQoJCQkJCS5idWlsZCgpOwoKCQkJRmlyZWJhc2VBcHAuaW5pdGlhbGl6ZUFwcChvcHRpb25zKTsKCQl9Cgl9Cgo=</text>
+        <text encoding="base64">CQl1c2VyTWFwcGVyLmFsbFVzZXJzKCkuZm9yRWFjaChsb2c6OmluZm8pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKCXByaXZhdGUgQXBwUGFyYW1zIGFwcFBhcmFtczsKCg==</text>
+        <text encoding="base64">CQlsb2cuaW5mbygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQENvbnRleHRDb25maWd1cmF0aW9uKAoJCWNsYXNzZXMgPSBBcHBsaWNhdGlvbi5jbGFzcywKCQlpbml0aWFsaXplcnMgPSBDb25maWdGaWxlQXBwbGljYXRpb25Db250ZXh0SW5pdGlhbGl6ZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmNvbnRleHQuQ29uZmlnRmlsZUFwcGxpY2F0aW9uQ29udGV4dEluaXRpYWxpemVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5ib290LnRlc3QuY29udGV4dC5TcHJpbmdCb290VGVzdDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LkNvbnRleHRDb25maWd1cmF0aW9uOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50ZXN0LmNvbnRleHQuanVuaXQ0LlNwcmluZ1J1bm5lcjsKCmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5uZXQuVVJMOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
