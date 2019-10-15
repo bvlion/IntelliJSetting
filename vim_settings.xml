@@ -27,8 +27,8 @@
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/TimerDataMapper.java" timestamp="1571100143425">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/report/functions/static/index.html" timestamp="1571105142140">
-        <mark key="[" line="93" column="52" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/report/functions/static/index.html" timestamp="1571109688331">
+        <mark key="[" line="77" column="55" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
@@ -100,6 +100,9 @@
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/report/functions/package.json" timestamp="1571108598647">
+        <mark key="[" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/batch/configuration/WeatherNotificationConfiguration.java" timestamp="1569283703899">
         <mark key="[" line="116" column="23" />
         <mark key="]" line="116" column="70" />
@@ -125,7 +128,7 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" timestamp="1571107043411">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" timestamp="1571108379580">
         <mark key="'" line="0" column="28" />
         <mark key="." line="0" column="15" />
       </file>
@@ -140,18 +143,17 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" timestamp="1571108048564">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="80" column="100" />
-        <mark key="]" line="64" column="20" />
-        <mark key="." line="64" column="20" />
-        <mark key="^" line="64" column="20" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" timestamp="1571111709727">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="71" column="50" />
+        <mark key="]" line="71" column="58" />
+        <mark key="." line="71" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/.gitignore" timestamp="1571107946710">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/.gitignore" timestamp="1571108778316">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="25" />
+        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch/src/main/java/net/ambitious/web/controller/IftttWebhookController.java" timestamp="1566923060687">
         <mark key="[" line="26" column="5" />
@@ -339,11 +341,11 @@
       <jump line="2" column="28" filename="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMvKgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>iwai</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -352,31 +354,31 @@
         <text encoding="base64">cmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMvKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IXJlcG9ydC9mdW5jdGlvbnMvc3RhdGljL2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGxzIC1sdHJBCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IXJlcG9ydC9mdW5jdGlvbnMvc3RhdGljL2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiAvdG1wL3dvcmtzcGFjZQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMK</text>
+        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiByZXBvcnQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VkIC1pIC1lICdzLyJ1c2VyIi8iJEJBU0lDX1VTRVIiLycgaW5kZXguanMK</text>
+        <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBvbmx5OgogICAgICAgIC0gZGV2ZWxvcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBkZXBsb3kKICAgICAgICAgIGNvbW1hbmQ6IHwKICAgICAgICAgICAgZ2l0IHJlbW90ZSBhZGQgaGVyb2t1IGdpdEBoZXJva3UuY29tOmJ2bGlvbi1iYXRjaDIuZ2l0CiAgICAgICAgICAgIGdpdCBwdXNoIGhlcm9rdSBtYXN0ZXIKCg==</text>
+        <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBvbmx5OgogICAgICAgIC0gZGV2ZWxvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2l0IHJlbW90ZSBybSBoZXJva3UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSB2MS1kZXBlbmRlbmNpZXMtCg==</text>
+        <text encoding="base64">IXJlcG9ydC9mdW5jdGlvbnMvc3RhdGljL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBjaGVja291dAoK</text>
+        <text encoding="base64">IXJlcG9ydC9mdW5jdGlvbnMvc3RhdGljL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
