@@ -122,8 +122,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AccessUtil.java" timestamp="1572312420355">
-        <mark key="[" line="266" column="45" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AccessUtil.java" timestamp="1572966194169">
+        <mark key="[" line="240" column="19" />
+        <mark key="]" line="240" column="13" />
+        <mark key="." line="240" column="13" />
+        <mark key="^" line="240" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/Procfile" timestamp="1569947064433">
         <mark key="[" line="0" column="0" />
@@ -217,8 +220,8 @@
         <mark key="]" line="88" column="66" />
         <mark key="." line="88" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/ContextListener.java" timestamp="1571102491480">
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/ContextListener.java" timestamp="1572965378588">
+        <mark key="[" line="73" column="9" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="48" column="59" />
         <mark key="." line="34" column="0" />
@@ -352,11 +355,11 @@
       <jump line="2" column="28" filename="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1ub3A6MS43LjI4Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>RequestProperty(&quot;Content-Type&quot;, &quot;application/json; UTF-8&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>org.slf4j:slf4j-log4j12</text>
+        <text>RequestProperty(&quot;Content-Type&quot;, &quot;application/json; UTF-8&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
