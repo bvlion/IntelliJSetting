@@ -34,10 +34,11 @@
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/TimerDataMapper.java" timestamp="1571100143425">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/report/functions/static/index.html" timestamp="1571109688331">
-        <mark key="[" line="77" column="55" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/report/functions/static/index.html" timestamp="1573967095223">
+        <mark key="[" line="77" column="77" />
+        <mark key="]" line="77" column="78" />
+        <mark key="." line="77" column="78" />
+        <mark key="^" line="77" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/Mp3Mapper.xml" timestamp="1569643108522">
         <mark key="[" line="28" column="16" />
@@ -68,12 +69,12 @@
         <mark key="]" line="10" column="30" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" timestamp="1571100820426">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="69" column="127" />
-        <mark key="]" line="69" column="80" />
-        <mark key="." line="69" column="80" />
-        <mark key="^" line="70" column="31" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" timestamp="1573966064175">
+        <mark key="'" line="194" column="7" />
+        <mark key="[" line="210" column="30" />
+        <mark key="]" line="210" column="57" />
+        <mark key="." line="210" column="30" />
+        <mark key="^" line="210" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/batch/component/WeatherNotificationTasklet.java" timestamp="1569033925020">
         <mark key="[" line="88" column="66" />
@@ -134,6 +135,10 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="24" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/check/UserDataController.java" timestamp="1573965837532">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="74" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" timestamp="1571108379580">
         <mark key="'" line="0" column="28" />
         <mark key="." line="0" column="15" />
@@ -144,9 +149,9 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/IftttWebhookController.java" timestamp="1572312089667">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/IftttWebhookController.java" timestamp="1573965700236">
         <mark key="'" line="189" column="15" />
-        <mark key="[" line="150" column="71" />
+        <mark key="[" line="238" column="5" />
         <mark key="]" line="151" column="32" />
         <mark key="." line="151" column="32" />
         <mark key="^" line="151" column="32" />
@@ -157,12 +162,12 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" timestamp="1571114338793">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" timestamp="1573967102388">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="73" column="40" />
+        <mark key="[" line="74" column="76" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="74" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/.gitignore" timestamp="1571108778316">
         <mark key="[" line="35" column="25" />
@@ -353,46 +358,47 @@
       <jump line="159" column="0" filename="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" />
       <jump line="2" column="28" filename="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" />
+      <jump line="194" column="7" filename="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>batchStartNotificationUrl</text>
+        <text>$(TZ=UTC-9 date '+%Y\/%m\/%d %H:%M:%S')</text>
       </register>
       <register name="-" type="4">
-        <text>batchStartNotificationUrl</text>
+        <text>$(TZ=UTC-9 date '+%Y\/%m\/%d %H:%M:%S')</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJZGF0YS5wdXQoImNoYW5uZWxJZCIsIGNoYW5uZWxJZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>$DEPLOY_DATE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1ub3A6MS43LjI4Jwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yOCcK</text>
+        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1ub3A6MS43LjI4Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHMgLWx0ckEgcmVwb3J0L2Z1bmN0aW9ucwo=</text>
+        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yOCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm0gLXIgcmVwb3J0L2Z1bmN0aW9ucy9pbmRleC5qcy1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHMgLWx0ckEgcmVwb3J0L2Z1bmN0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm0gLXIgcmVwb3J0L2Z1bmN0aW9ucy9pbmRleC5qcy1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGxzIC1sdHJBCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiAvdG1wL3dvcmtzcGFjZQoK</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGxzIC1sdHJBCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiByZXBvcnQKCg==</text>
+        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiAvdG1wL3dvcmtzcGFjZQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBvbmx5OgogICAgICAgIC0gZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiByZXBvcnQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
