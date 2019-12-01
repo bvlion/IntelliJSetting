@@ -255,6 +255,12 @@
         <mark key="^" line="2" column="81" />
         <mark key="." line="2" column="81" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/test/java/net/ambitious/bvlion/batch2/enums/TimerDateEnumTest.java" timestamp="1575203908350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/ContextListener.java" timestamp="1572967631138">
         <mark key="[" line="84" column="67" />
         <mark key="]" line="81" column="31" />
@@ -359,10 +365,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" />
       <jump line="2" column="28" filename="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" />
       <jump line="194" column="7" filename="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" />
+      <jump line="2" column="30" filename="$USER_HOME$/workspace/BvlionBatch2/src/test/java/net/ambitious/bvlion/batch2/enums/TimerDateEnumTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$(TZ=UTC-9 date '+%Y\/%m\/%d %H:%M:%S')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBuZXQuYW1iaXRpb3VzLmJ2bGlvbi5iYXRjaDIuZW51bXM7CgpwdWJsaWMgY2xhc3MgVGltZXJEYXRlRW51bVRlc3Qgewp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$(TZ=UTC-9 date '+%Y\/%m\/%d %H:%M:%S')</text>
@@ -374,31 +381,31 @@
         <text>$DEPLOY_DATE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cGFja2FnZSBuZXQuYW1iaXRpb3VzLmJ2bGlvbi5iYXRjaDIuZW51bXM7CgpwdWJsaWMgY2xhc3MgVGltZXJEYXRlRW51bVRlc3Qgewp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1ub3A6MS43LjI4Jwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yOCcK</text>
+        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1ub3A6MS43LjI4Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHMgLWx0ckEgcmVwb3J0L2Z1bmN0aW9ucwo=</text>
+        <text encoding="base64">CWNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yOCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm0gLXIgcmVwb3J0L2Z1bmN0aW9ucy9pbmRleC5qcy1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHMgLWx0ckEgcmVwb3J0L2Z1bmN0aW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm0gLXIgcmVwb3J0L2Z1bmN0aW9ucy9pbmRleC5qcy1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGxzIC1sdHJBCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiAvdG1wL3dvcmtzcGFjZQoK</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGxzIC1sdHJBCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiByZXBvcnQKCg==</text>
+        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyZWN0b3J5OiAvdG1wL3dvcmtzcGFjZQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
