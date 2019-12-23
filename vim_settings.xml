@@ -3,21 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" timestamp="1577004918133">
+      <file name="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" timestamp="1577117164770">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="25" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="37" column="64" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/.gitignore" timestamp="1577117103429" />
     </filemarks>
     <jumps>
       <jump line="81" column="0" filename="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25seTogZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBSZXBvcnQgZmlsZSBtb3ZlCiAgICAgICAgICBjb21tYW5kOiB8CiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvY2hlY2tzdHlsZSByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy9jaGVja3N0eWxlCiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvc3BvdGJ1Z3MgcmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMvc3BvdGJ1Z3MKICAgICAgICAgICAgbXYgYnVpbGQvcmVwb3J0cy90ZXN0cyByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy90ZXN0cwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25seTogZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBSZXBvcnQgZmlsZSBtb3ZlCiAgICAgICAgICBjb21tYW5kOiB8CiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvY2hlY2tzdHlsZSByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy9jaGVja3N0eWxlCiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvc3BvdGJ1Z3MgcmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMvc3BvdGJ1Z3MKICAgICAgICAgICAgbXYgYnVpbGQvcmVwb3J0cy90ZXN0cyByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy90ZXN0cwo=</text>
       </register>
     </registers>
     <search>
