@@ -3,10 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/OriginalBatchController.java" timestamp="1577869457433">
+        <mark key="[" line="217" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/Mail.java" timestamp="1577870595283">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/.circleci/config.yml" timestamp="1577117164770">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="37" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/build.gradle" timestamp="1577869650019">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="18" />
+        <mark key="^" line="43" column="39" />
+        <mark key="." line="43" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/application.properties" timestamp="1577870242037">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/.gitignore" timestamp="1577117103429" />
     </filemarks>
@@ -15,10 +36,22 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBSZXBvcnQgZmlsZSBtb3ZlCiAgICAgICAgICBjb21tYW5kOiB8CiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvY2hlY2tzdHlsZSByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy9jaGVja3N0eWxlCiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvc3BvdGJ1Z3MgcmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMvc3BvdGJ1Z3MKICAgICAgICAgICAgbXYgYnVpbGQvcmVwb3J0cy90ZXN0cyByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy90ZXN0cwo=</text>
+        <text encoding="base64">YXBwZGF0YS5tYWlsSG9zdD0ke01BSUxfSE9TVH0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydGllcyBwcm9wcyA9IDsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBSZXBvcnQgZmlsZSBtb3ZlCiAgICAgICAgICBjb21tYW5kOiB8CiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvY2hlY2tzdHlsZSByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy9jaGVja3N0eWxlCiAgICAgICAgICAgIG12IGJ1aWxkL3JlcG9ydHMvc3BvdGJ1Z3MgcmVwb3J0L2Z1bmN0aW9ucy9zdGF0aWMvc3BvdGJ1Z3MKICAgICAgICAgICAgbXYgYnVpbGQvcmVwb3J0cy90ZXN0cyByZXBvcnQvZnVuY3Rpb25zL3N0YXRpYy90ZXN0cwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydGllcyBwcm9wcyA9IDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YXBwZGF0YS5tYWlsSG9zdD0ke01BSUxfSE9TVH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CS8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvamF2YXgubWFpbC9qYXZheC5tYWlsLWFwaQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>System.getProperties()</text>
       </register>
     </registers>
     <search>
