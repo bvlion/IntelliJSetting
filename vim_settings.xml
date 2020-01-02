@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/docker_db/init/mail_api.sql" timestamp="1577980631953">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/docker_db/init/mail_api.sql" timestamp="1577982977210">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/mapper/ExecTimeMapper.java" timestamp="1577980292290">
@@ -101,7 +101,7 @@ prefix_format</text>
         <text encoding="base64">CQkKCQkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGV4ZWNfdGltZQ==</text>
+        <text encoding="base64">Tk9UIE5VTEwg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkKCQkK</text>
@@ -131,7 +131,7 @@ to_folder</text>
         <text encoding="base64">ICAgICAgICBjb25uZWN0KGFwcFBhcmFtcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGV4ZWNfdGltZQ==</text>
+        <text encoding="base64">Tk9UIE5VTEwg</text>
       </register>
     </registers>
     <search>
