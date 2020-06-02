@@ -46,6 +46,9 @@
         <mark key="." line="111" column="90" />
         <mark key="^" line="111" column="90" />
       </file>
+      <file name="lombok-plugin.xml" timestamp="1591070357026">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/application.properties" timestamp="1585652115066">
         <mark key="^" line="33" column="22" />
       </file>
