@@ -37,14 +37,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/README.md" timestamp="1596377468344">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="51" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/AccessUtil.java" timestamp="1585653281158">
         <mark key="^" line="237" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/TimesController.java" timestamp="1587639891000">
-        <mark key="[" line="111" column="92" />
-        <mark key="]" line="111" column="90" />
-        <mark key="." line="111" column="90" />
-        <mark key="^" line="111" column="90" />
+        <mark key="[" line="116" column="92" />
+        <mark key="]" line="116" column="90" />
+        <mark key="." line="116" column="90" />
+        <mark key="^" line="116" column="90" />
       </file>
       <file name="lombok-plugin.xml" timestamp="1591070357026">
         <mark key="[" line="0" column="0" />
@@ -52,11 +57,11 @@
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/application.properties" timestamp="1585652115066">
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/check/UserDataController.java" timestamp="1585652194927">
-        <mark key="[" line="74" column="50" />
-        <mark key="]" line="74" column="84" />
-        <mark key="." line="74" column="50" />
-        <mark key="^" line="26" column="11" />
+      <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/web/controller/check/UserDataController.java" timestamp="1596378383217">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="101" column="9" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="98" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/report/.firebaserc" timestamp="1585580388257">
         <mark key="[" line="3" column="20" />
@@ -146,42 +151,42 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CUBOb25OdWxsCglwcml2YXRlIGZpbmFsIFRpbWVyRGF0YU1hcHBlciB0aW1lckRhdGFNYXBwZXI7Cg==</text>
+        <text encoding="base64">CQkJCXR5cGVNZXNzYWdlID0gIiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShlcnJvck1lc3NhZ2UpKSB7CgkJCXRoaXMucmVhbHRpbWVTZXR0aW5nTWFwcGVyLnVwZGF0ZUFpcmNvbk1vZGUobW9kZSwgdGVtcCk7CgkJfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>UserCheck</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShlcnJvck1lc3NhZ2UpKSB7CgkJCXRoaXMucmVhbHRpbWVTZXR0aW5nTWFwcGVyLnVwZGF0ZUFpcmNvbk1vZGUobW9kZSwgdGVtcCk7CgkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlBY2Nlc3NVdGlsLnBvc3RHb29nbGVIb21lKAoJCQkJCQkJdGV4dCwKCQkJCQkJCWxvZywKCQkJCQkJCWFwcFBhcmFtcywKCQkJCQkJCXZvbHVtZQoJCQkJCSk7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQlTdHJpbmcgCgkJU3RyaW5nIG1lc3NhZ2U7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text>* 冷房起動</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQlBY2Nlc3NVdGlsLnBvc3RHb29nbGVIb21lKAoJCQkJCQkJdGV4dCwKCQkJCQkJCWxvZywKCQkJCQkJCWFwcFBhcmFtcywKCQkJCQkJCXZvbHVtZQoJCQkJCSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQlpZiAoKSB7CgkJCWlzVXNlckNoZWNrID0gOwoJCX0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>TimerDataMapper timerDataMapper;
 
 	@</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgcHJpb3JpdHk6ICdoaWdoJywK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvdGVtcGVyYXR1cmUtZGV0ZWN0aW9uIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QVVQpCglwdWJsaWMgdm9pZCB0ZW1wZXJhdHVyZURldGVjdGlvbigpIHsKCQlpZiAoIWhvbGlkYXlNYXBwZXIuaXNIb2xpZGF5KCkpIHsKCQkJQWNjZXNzVXRpbC5wb3N0R29vZ2xlSG9tZSgKCQkJCQki44GK44Gv44KI44GG44GU44GW44GE44G+44GZ44CC5qSc5rip44Gv5riI44KT44Gn44GE44G+44GZ44GL77yfIiwKCQkJCQlsb2csCgkJCQkJYXBwUGFyYW1zLAoJCQkJCTU1CgkJCSk7CgkJfQoJfQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl2YXIgc2V0RGF0ZSA9IEFjY2Vzc1V0aWwuZ2V0TmV4dERhdGUoInl5eXktTU0tZGQiKTsKCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoIWhvbGlkYXlNYXBwZXIuaXNTZXRIb2xpZGF5KCkpIHsKCQkJaG9saWRheU1hcHBlci5zZXRIb2xpZGF5KHNldERhdGUsIGhvbGlkYXlUeXBlKTsKCQl9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>UserCheck</text>
+        <text>int</text>
       </register>
     </registers>
   </component>
