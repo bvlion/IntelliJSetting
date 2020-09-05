@@ -2,6 +2,6 @@
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/Users/iwai/.m2/repository" />
     <macro name="ADMINSDK_JSON_URL" value="https://4s.ambitious-i.net/bvlion_batch2/iwai-home-app-firebase-adminsdk.json" />
-    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/iwai/Library/Application Support/JetBrains/IdeaIC2020.2/plugins/Kotlin/kotlinc" />
   </component>
 </application>
