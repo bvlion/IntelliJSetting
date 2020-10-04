@@ -68,6 +68,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/BvlionBatch2/docker_db/init/users.sql" timestamp="1601821181276">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/resources/net/ambitious/bvlion/batch2/mapper/UserMapper.xml" timestamp="1587475812343">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="33" column="15" />
@@ -156,8 +161,8 @@
       <register name="1" type="2">
         <text encoding="base64">CQlpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShlcnJvck1lc3NhZ2UpKSB7CgkJCXRoaXMucmVhbHRpbWVTZXR0aW5nTWFwcGVyLnVwZGF0ZUFpcmNvbk1vZGUobW9kZSwgdGVtcCk7CgkJfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShlcnJvck1lc3NhZ2UpKSB7CgkJCXRoaXMucmVhbHRpbWVTZXR0aW5nTWFwcGVyLnVwZGF0ZUFpcmNvbk1vZGUobW9kZSwgdGVtcCk7CgkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>DEFAULT</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJCQo=</text>
@@ -186,7 +191,7 @@
         <text encoding="base64">ICAgICAgcHJpb3JpdHk6ICdoaWdoJywK</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>DEFAULT</text>
       </register>
     </registers>
   </component>
