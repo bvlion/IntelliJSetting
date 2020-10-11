@@ -37,11 +37,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BvlionBatch2/README.md" timestamp="1596377468344">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="51" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/BvlionBatch2/src/main/java/net/ambitious/bvlion/batch2/util/ProjectControllerAdvice.java" timestamp="1601898668900">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="5" column="42" />
